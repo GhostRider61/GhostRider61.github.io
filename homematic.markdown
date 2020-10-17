@@ -2,7 +2,7 @@
 layout: page
 title: Homematic
 permalink: /homematic/
-nav_order: 2
+nav_order: 3
 ---
 # Homematic
 
