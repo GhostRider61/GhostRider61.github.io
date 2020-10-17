@@ -9,5 +9,4 @@ nav_order: 4
 
 * * *
 
-
-[](https://esphome.io/)
+[ESPHome](https://esphome.io/)
