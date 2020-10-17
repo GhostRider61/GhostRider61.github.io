@@ -4,17 +4,18 @@
 
 layout: home
 ---
+# B&N Smart Home
 
-This is the B&N Smart Home documentation
-The B&N Smart Home constits of the followinmg main components:
+This is the B&N Smart Home documentation  
+The B&N Smart Home consists of the following main components:
 
 * Homematic system
 * Home Assistant including deCONZ / Phoscon ZigBee
 * ESPHome components
 
-# Homematic System
+## Homematic System
 
-# Home Assistant
+## Home Assistant
 
-# ESPHome
+## ESPHome
 
