@@ -20,4 +20,3 @@ The B&N Smart Home consists of the following main components:
 ## Home Assistant
 
 ## ESPHome
-
