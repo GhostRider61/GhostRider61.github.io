@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ESPHome
 permalink: /esphome/
 nav_order: 4

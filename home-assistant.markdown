@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home Assistant
 permalink: /home-assistant/
 nav_order: 2

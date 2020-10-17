@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Homematic
 permalink: /homematic/
 nav_order: 3
