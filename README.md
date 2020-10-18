@@ -1,3 +1,3 @@
-# GhostRider61.github.io
+# GhostRider61 Github Pages
 
-This is the gaga from gugus
+This is the GostRider61 Github Pages Homepage
