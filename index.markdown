@@ -19,3 +19,23 @@ The B&N Smart Home consists of the following main components:
 ## Homematic System
 
 ## ESPHome
+
+### BNSH Weather Station
+
+* Nextion 320x240 Color Display
+* Temperature & Humidity & Pressure
+* CO2
+
+### BNSH Heating Housing Temperature
+
+### BNSH Time Temperature Display
+
+Rework it to BNSH Standalone Multisensor with Display
+
+* Display
+* Temperature & Humidity
+* CO2
+
+### BNSH Status LED
+
+### BNSH Bedroom LED
