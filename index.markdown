@@ -20,7 +20,7 @@ The B&N Smart Home consists of the following main components:
 
 ## ESPHome
 
-### [BNSH Weather Station](esphome.md)
+### [BNSH Weather Station](esphome.markdown)
 
 Selfmade weather station showing the inside temperature / humidity of the weather station box and Home Assistant outside temperature sensors (temperature front yard --> carport and backyard --> garden) and weather forecast from the internet.
 
