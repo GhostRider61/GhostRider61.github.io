@@ -24,20 +24,18 @@ The B&N Smart Home consists of the following main components:
 
 Selfmade weather station showing the inside temperature / humidity of the weather station box and Home Assistant outside temperature sensors (temperature front yard --> carport and backyard --> garden) and weather forecast from the internet.
 
-* Nextion 320x240 Color Display
-* Temperature & Humidity & Pressure
-* CO2
-
 ### BNSH Heating Housing Temperature
+
+Heating housing temperature sensor to detect whether the heating si working or not (on/off).
 
 ### BNSH Time Temperature Display
 
-Rework it to BNSH Standalone Multisensor with Display
-
-* Display
-* Temperature & Humidity
-* CO2
+Standalone multisensor with display.
 
 ### BNSH Status LED
 
+Standalone LED array to signalize home status.
+
 ### BNSH Bedroom LED
+
+Standalone LED array for slow dimm-up wakeup light and background ambiance.
